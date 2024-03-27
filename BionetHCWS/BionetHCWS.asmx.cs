@@ -681,6 +681,11 @@ namespace BionetHCWS
                                                             HisData = GetHisDataE(DT.Rows[f]["CUS_CT_ID"].ToString(), tble.Rows[i]["Attribution"].ToString());
                                                             strHis = HisData.Rows[0][0].ToString();
                                                             break;
+
+                                                        case "AP_FA_RESULT_V": //2024-03-27 FA
+                                                            HisData = GetHisDataFA(DT.Rows[f]["CUS_CT_ID"].ToString(), tble.Rows[i]["COLNAME"].ToString());
+                                                            strHis = HisData.Rows[0][0].ToString();
+                                                            break;
                                                     }
 
                                                 }
@@ -889,6 +894,16 @@ namespace BionetHCWS
 
                                                             case "PGD_MAIN":
                                                                 HisData = GetHisDataD(DT.Rows[f]["CUS_CT_ID"].ToString(), tble.Rows[i]["COLNAME"].ToString());
+                                                                break;
+
+                                                            case "Customer_SMA_HCWS": //2021/10/29 jeff 新增 組合細項    2022/07/11 jeff修改帶入參數Attribution
+                                                                HisData = GetHisDataE(DT.Rows[f]["CUS_CT_ID"].ToString(), tble.Rows[i]["Attribution"].ToString());
+                                                                strHis = HisData.Rows[0][0].ToString();
+                                                                break;
+
+                                                            case "AP_FA_RESULT_V": //2024-03-27 FA
+                                                                HisData = GetHisDataFA(DT.Rows[f]["CUS_CT_ID"].ToString(), tble.Rows[i]["COLNAME"].ToString());
+                                                                strHis = HisData.Rows[0][0].ToString();
                                                                 break;
                                                         }
 
@@ -1398,6 +1413,29 @@ namespace BionetHCWS
                 }
 
             }
+
+            if (productType.Contains("FA"))
+            {
+                string folder = cusCtId.Substring(0, 5);
+                string path2 = @"\\sma\out\" + folder + @"\" + cusCtId + ".pdf";
+                string path3 = @"\\ggalis\IN\" + folder + @"\" + cusCtId + ".pdf";
+                if (System.IO.File.Exists(path2))
+                {
+                    var result2 = System.IO.File.ReadAllBytes(path2);
+                    return Convert.ToBase64String(result2);
+                }
+                else if (System.IO.File.Exists(path3))
+                {
+                    var result3 = System.IO.File.ReadAllBytes(path3);
+                    return Convert.ToBase64String(result3);
+                }
+                else
+                {
+                    return "";
+                }
+
+            }
+
 
             //if (productType.Contains("CSC"))
             //{
@@ -2152,6 +2190,34 @@ namespace BionetHCWS
             conn.Close();
             return dt;
         }
+
+
+        public DataTable GetHisDataFA(string CUSCTID, string ColName)
+        {
+            DataTable dt = new DataTable();
+            string sql = string.Empty;
+            string Address = string.Empty;
+            SqlConnection conn = new SqlConnection();
+            conn.ConnectionString = ConfigurationManager.AppSettings["BBCMS"];
+            sql = "SELECT " + ColName + " FROM  AP_FA_RESULT_V ";
+            sql += " WHERE 1=1  ";
+            sql += " AND Cus_CT_ID = '" + CUSCTID + "'";
+
+            WriteLog(pathLogFile, "\r\n" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + " GetHisDataD：" + sql);
+
+            SqlCommand cmd = new SqlCommand(sql, conn);
+            conn.Open();
+
+            using (SqlDataAdapter a = new SqlDataAdapter(cmd))
+            {
+                a.Fill(dt);
+            }
+
+            conn.Close();
+            return dt;
+        }
+
+
 
         //檢驗結果回傳(檢驗內容CS)
         public DataTable GetHisDataCS(string HOS_ID, string PROJECTTYPE)

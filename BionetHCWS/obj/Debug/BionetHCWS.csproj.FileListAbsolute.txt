@@ -82,3 +82,11 @@ C:\En\雙向資料交換\20240123 四季台安his_titel轉換\BionetHCWS\BionetH
 C:\En\雙向資料交換\20240123 四季台安his_titel轉換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csproj.CopyComplete
 C:\En\雙向資料交換\20240123 四季台安his_titel轉換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.dll
 C:\En\雙向資料交換\20240123 四季台安his_titel轉換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.pdb
+C:\GitHub\BionetHCWS\BionetHCWS\bin\BionetHCWS.dll.config
+C:\GitHub\BionetHCWS\BionetHCWS\bin\BionetHCWS.dll
+C:\GitHub\BionetHCWS\BionetHCWS\bin\BionetHCWS.pdb
+C:\GitHub\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csproj.AssemblyReference.cache
+C:\GitHub\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csproj.CoreCompileInputs.cache
+C:\GitHub\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csproj.CopyComplete
+C:\GitHub\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.dll
+C:\GitHub\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.pdb
