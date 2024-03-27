@@ -1,0 +1,8 @@
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\obj\Release\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\obj\Release\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\obj\Release\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\obj\Release\BionetHCWS.pdb

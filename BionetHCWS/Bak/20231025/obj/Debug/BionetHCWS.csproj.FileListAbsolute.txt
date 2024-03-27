@@ -1,0 +1,76 @@
+c:\users\edliu\documents\visual studio 2012\Projects\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+c:\users\edliu\documents\visual studio 2012\Projects\BionetHCWS\BionetHCWS\bin\BionetHCWS.dll
+c:\users\edliu\documents\visual studio 2012\Projects\BionetHCWS\BionetHCWS\bin\BionetHCWS.pdb
+c:\users\edliu\documents\visual studio 2012\Projects\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.dll
+c:\users\edliu\documents\visual studio 2012\Projects\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.pdb
+C:\ED\BionetHCWS\BionetHCWS\bin\BionetHCWS.dll
+C:\ED\BionetHCWS\BionetHCWS\bin\BionetHCWS.pdb
+C:\ED\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+C:\ED\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.dll
+C:\ED\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.pdb
+C:\ED\資料交換\BionetHCWS\BionetHCWS\bin\BionetHCWS.dll
+C:\ED\資料交換\BionetHCWS\BionetHCWS\bin\BionetHCWS.pdb
+C:\ED\資料交換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+C:\ED\資料交換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.dll
+C:\ED\資料交換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.pdb
+\\tpinas2\1.程式修改紀錄$\AlbertChen\資料交換\BionetHCWS\BionetHCWS\bin\BionetHCWS.dll.config
+\\tpinas2\1.程式修改紀錄$\AlbertChen\資料交換\BionetHCWS\BionetHCWS\bin\BionetHCWS.dll
+\\tpinas2\1.程式修改紀錄$\AlbertChen\資料交換\BionetHCWS\BionetHCWS\bin\BionetHCWS.pdb
+\\tpinas2\1.程式修改紀錄$\AlbertChen\資料交換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+\\tpinas2\1.程式修改紀錄$\AlbertChen\資料交換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.dll
+\\tpinas2\1.程式修改紀錄$\AlbertChen\資料交換\BionetHCWS\BionetHCWS\obj\Debug\BionetHCWS.pdb
+C:\Users\KenYin\Desktop\[最新]BionetHCWS (2018.06.08.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+C:\Users\KenYin\Desktop\[最新]BionetHCWS (2018.06.08.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+C:\Users\KenYin\Desktop\[最新]BionetHCWS (2018.06.08.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+C:\Users\KenYin\Desktop\[最新]BionetHCWS (2018.06.08.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.dll
+C:\Users\KenYin\Desktop\[最新]BionetHCWS (2018.06.08.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+H:\1.程式修改紀錄\ED\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+H:\1.程式修改紀錄\ED\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+H:\1.程式修改紀錄\ED\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+H:\1.程式修改紀錄\ED\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.dll
+H:\1.程式修改紀錄\ED\[最新]BionetHCWS (2018.06.21.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.17.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.22.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.22.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.22.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.22.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2018.12.22.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.20.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.20.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.20.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.20.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.20.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.25.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.25.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.25.補上修正註解版)\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.25.補上修正註解版)\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.03.25.補上修正註解版)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\obj\Debug\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.01.增加協定交換院所判斷\BionetHCWS\obj\Debug\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.10最新)\BionetHCWS\bin\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.10最新)\BionetHCWS\bin\BionetHCWS.pdb
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.10最新)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.10最新)\BionetHCWS\obj\Debug\BionetHCWS.dll
+D:\KEN\[00].資料交換\歷版程式專案\[最新]BionetHCWS (2019.04.10最新)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+\\tpinas2\1.程式修改紀錄$\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\bin\BionetHCWS.dll
+\\tpinas2\1.程式修改紀錄$\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\bin\BionetHCWS.pdb
+\\tpinas2\1.程式修改紀錄$\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+\\tpinas2\1.程式修改紀錄$\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\obj\Debug\BionetHCWS.dll
+\\tpinas2\1.程式修改紀錄$\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\obj\Debug\BionetHCWS.pdb
+H:\1.程式修改紀錄\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\bin\BionetHCWS.dll
+H:\1.程式修改紀錄\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\bin\BionetHCWS.pdb
+H:\1.程式修改紀錄\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\obj\Debug\BionetHCWS.csprojResolveAssemblyReference.cache
+H:\1.程式修改紀錄\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\obj\Debug\BionetHCWS.dll
+H:\1.程式修改紀錄\ED\20190321\[最新]BionetHCWS (2019.04.17最新)\BionetHCWS\obj\Debug\BionetHCWS.pdb
